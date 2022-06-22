@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class MyLinkedList {
     //definition for singly-linked list.
     public class SLLNode {
