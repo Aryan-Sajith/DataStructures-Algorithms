@@ -1,8 +1,8 @@
 package Arrays.MergeSortedArrs;
 
 class MergeSortArrSolution {
-    //Time Complexity: O(M+N)
-    //Space Complexity: O(1)
+    //The Time Complexity: O(M+N)
+    //The Space Complexity: O(1)
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         int cap = m + n - 1;
 

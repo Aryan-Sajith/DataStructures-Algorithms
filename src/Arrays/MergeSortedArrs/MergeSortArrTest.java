@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class MergeSortArrTest {
     public static void main(String[] args) {
-        int[] nums1 = {1,6,12,0,0,0};
-        int m = 3;
+        int[] nums1 = {1,6,12,13,0,0,0};
+        int m = 4;
         int[] nums2 = {3,7,9};
         int n = 3;
 
