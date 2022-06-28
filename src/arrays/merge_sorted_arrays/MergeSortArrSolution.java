@@ -1,4 +1,4 @@
-package Arrays.MergeSortedArrs;
+package arrays.merge_sorted_arrays;
 
 class MergeSortArrSolution {
     //The Time Complexity: O(M+N)

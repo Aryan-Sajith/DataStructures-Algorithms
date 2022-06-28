@@ -1,4 +1,4 @@
-package Arrays.ZeroDuplication;
+package arrays.zero_duplication;
 
 /*An efficient algorithm to duplicate the zeroes present in an array in java
  1.Count the number of zeroes that need extra space in the array. O(N)

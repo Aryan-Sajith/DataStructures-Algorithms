@@ -1,4 +1,4 @@
-package Arrays.RemoveValArrs;
+package arrays.remove_val;
 
 
 public class RemoveValArrTest {

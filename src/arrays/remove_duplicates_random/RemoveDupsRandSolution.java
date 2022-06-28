@@ -1,4 +1,4 @@
-package Arrays.RemoveDuplicatesRandom;
+package arrays.remove_duplicates_random;
 
 public class RemoveDupsRandSolution {
     public static int removeDuplicates(int[] nums) {

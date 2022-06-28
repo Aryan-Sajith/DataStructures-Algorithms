@@ -1,4 +1,4 @@
-package Arrays.ZeroDuplication;
+package arrays.zero_duplication;
 import java.util.Arrays;
 
 public class ZeroDupsTest {

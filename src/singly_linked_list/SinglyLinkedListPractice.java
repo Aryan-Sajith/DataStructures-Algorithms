@@ -1,8 +1,8 @@
-package DoublyLinkedList;
+package singly_linked_list;
 
-public class DoublyLinkedListPractice {
+public class SinglyLinkedListPractice {
     public static void main(String[] args) {
-        DoublyLinkedList fun = new DoublyLinkedList();
+        SinglyLinkedList fun = new SinglyLinkedList();
         fun.addAtIndex(0,1);
         fun.addAtTail(6);
         fun.addAtHead(15);
