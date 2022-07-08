@@ -1,4 +1,4 @@
-package arrays.remove_duplicates_random;
+package arrays.leetcode_explore.remove_duplicates_random;
 
 
 //This test should run without any exceptions caused by the assertions if the algorithm correctly modifies the

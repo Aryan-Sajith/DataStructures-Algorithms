@@ -1,4 +1,4 @@
-package arrays.greatest_value_on_the_right;
+package arrays.leetcode_explore.greatest_value_on_the_right;
 
 class GreatestValueOnRight {
     public static int[] replaceElements(int[] arr) {

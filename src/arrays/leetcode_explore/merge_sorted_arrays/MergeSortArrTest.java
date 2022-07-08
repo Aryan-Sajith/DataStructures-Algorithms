@@ -1,4 +1,4 @@
-package arrays.merge_sorted_arrays;
+package arrays.leetcode_explore.merge_sorted_arrays;
 
 import java.util.Arrays;
 

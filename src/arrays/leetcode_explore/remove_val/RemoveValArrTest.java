@@ -1,4 +1,4 @@
-package arrays.remove_val;
+package arrays.leetcode_explore.remove_val;
 
 
 public class RemoveValArrTest {

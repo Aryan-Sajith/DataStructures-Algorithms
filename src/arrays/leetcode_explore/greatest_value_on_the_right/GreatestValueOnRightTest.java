@@ -1,4 +1,4 @@
-package arrays.greatest_value_on_the_right;
+package arrays.leetcode_explore.greatest_value_on_the_right;
 
 public class GreatestValueOnRightTest {
     public static void main(String[] args) {

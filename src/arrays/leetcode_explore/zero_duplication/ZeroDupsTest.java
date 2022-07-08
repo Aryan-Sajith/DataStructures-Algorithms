@@ -1,4 +1,4 @@
-package arrays.zero_duplication;
+package arrays.leetcode_explore.zero_duplication;
 import java.util.Arrays;
 
 public class ZeroDupsTest {

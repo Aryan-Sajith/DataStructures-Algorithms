@@ -1,4 +1,4 @@
-package arrays.n_and_double;
+package arrays.leetcode_explore.n_and_double;
 
 public class NAndDoubleSolutionTest {
     public static void main(String[] args) {

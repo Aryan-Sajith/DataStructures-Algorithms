@@ -1,4 +1,4 @@
-package arrays.remove_duplicates_random;
+package arrays.leetcode_explore.remove_duplicates_random;
 
 public class RemoveDupsRandSolution {
     public static int removeDuplicates(int[] nums) {

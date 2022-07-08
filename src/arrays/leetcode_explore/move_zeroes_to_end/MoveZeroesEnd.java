@@ -1,4 +1,4 @@
-package arrays.move_zeroes_to_end;
+package arrays.leetcode_explore.move_zeroes_to_end;
 
 public class MoveZeroesEnd {
     public static void moveZeroes(int[] nums) {
