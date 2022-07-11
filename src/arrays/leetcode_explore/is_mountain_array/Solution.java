@@ -1,6 +1,6 @@
-package arrays.leetcode_explore.mountain_array;
+package arrays.leetcode_explore.is_mountain_array;
 
-public class CheckMountainArraySolution {
+public class Solution {
     public static boolean validMountainArray(int[] arr) {
         int cap = arr.length, i = 0;
 
