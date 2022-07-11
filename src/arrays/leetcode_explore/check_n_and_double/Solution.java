@@ -1,6 +1,6 @@
-package arrays.leetcode_explore.n_and_double;
+package arrays.leetcode_explore.check_n_and_double;
 
-public class NAndDoubleSolution {
+public class Solution {
     public static boolean checkIfExist(int[] arr) {
         int cap = arr.length;
 

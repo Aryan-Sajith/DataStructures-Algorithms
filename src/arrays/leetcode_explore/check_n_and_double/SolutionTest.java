@@ -1,10 +1,10 @@
-package arrays.leetcode_explore.n_and_double;
+package arrays.leetcode_explore.check_n_and_double;
 
-public class NAndDoubleSolutionTest {
+public class SolutionTest {
     public static void main(String[] args) {
         int[] nums = {1,2,3,5,6};
 
         System.out.println("The array nums contains a number n and its double--> " +
-                NAndDoubleSolution.checkIfExist(nums));
+                Solution.checkIfExist(nums));
     }
 }
