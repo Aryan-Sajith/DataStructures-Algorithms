@@ -1,6 +1,6 @@
 package arrays.leetcode_explore.merge_sorted_arrays;
 
-class MergeSortArrSolution {
+class Solution {
     //The Time Complexity: O(M+N)
     //The Space Complexity: O(1)
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
