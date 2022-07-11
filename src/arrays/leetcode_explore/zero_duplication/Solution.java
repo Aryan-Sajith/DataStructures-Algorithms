@@ -11,7 +11,7 @@ package arrays.leetcode_explore.zero_duplication;
     Space Complexity: O(1). We don't utilize any memory for another array
 
  */
-class ZeroDupsSolution {
+class Solution {
     public static void duplicateZeros(int[] arr) {
         int zeroDups = 0, cap = arr.length - 1, last;
 
