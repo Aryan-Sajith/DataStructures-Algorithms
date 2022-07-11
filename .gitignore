@@ -31,3 +31,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /Template_README_File.md
+!/external_jars/
