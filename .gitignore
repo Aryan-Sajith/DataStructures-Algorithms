@@ -30,4 +30,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-!/Template_README_File.md
+/Template_README_File.md
