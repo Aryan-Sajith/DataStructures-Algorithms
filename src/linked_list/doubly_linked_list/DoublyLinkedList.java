@@ -1,4 +1,4 @@
-package doubly_linked_list;
+package linked_list.doubly_linked_list;
 
 class DoublyLinkedList {
     public class Node {

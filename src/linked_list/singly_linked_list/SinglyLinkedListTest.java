@@ -1,6 +1,6 @@
-package singly_linked_list;
+package linked_list.singly_linked_list;
 
-public class SinglyLinkedListPractice {
+public class SinglyLinkedListTest {
     public static void main(String[] args) {
         SinglyLinkedList fun = new SinglyLinkedList();
         fun.addAtIndex(0,1);

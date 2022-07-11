@@ -1,4 +1,4 @@
-package singly_linked_list;
+package linked_list.singly_linked_list;
 
 class SinglyLinkedList {
     public class Node {

@@ -1,6 +1,6 @@
-package doubly_linked_list;
+package linked_list.doubly_linked_list;
 
-public class DoublyLinkedListPractice {
+public class DoublyLinkedListTest {
     public static void main(String[] args) {
         DoublyLinkedList fun = new DoublyLinkedList();
         fun.addAtIndex(0,1);
