@@ -5,7 +5,7 @@ out/
 *.iml
 *.xml
 *.idea
-Template_README_File.md
+/Users/aryansajith/IdeaProjects/DataStructures-Algorithms/Template_README_File.md
 
 ### Eclipse ###
 .apt_generated
