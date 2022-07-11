@@ -1,6 +1,6 @@
-package arrays.leetcode_explore.remove_duplicates_random;
+package arrays.leetcode_explore.remove_duplicates_sorted_array;
 
-public class RemoveDupsRandSolution {
+public class Solution {
     public static int removeDuplicates(int[] nums) {
         int slowPointer = 0;
         int cap = nums.length;
