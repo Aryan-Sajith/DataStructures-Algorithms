@@ -1,6 +1,6 @@
 package arrays.leetcode_explore.remove_val;
 
-public class RemoveValArrSolution {
+public class Solution {
     public static int removeElement(int[] nums, int val) {
         int i = 0, length = nums.length;
 
