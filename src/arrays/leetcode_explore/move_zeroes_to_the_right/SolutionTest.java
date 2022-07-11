@@ -1,9 +1,9 @@
-package arrays.leetcode_explore.move_zeroes_to_end;
+package arrays.leetcode_explore.move_zeroes_to_the_right;
 
-public class MoveZeroesEndTest {
+public class SolutionTest {
     public static void main(String[] args) {
         int[] nums = {0,5,23,0,0,2,54,2,0,1,3};
-        MoveZeroesEnd.moveZeroes(nums);
+        Solution.moveZeroes(nums);
 
         for(int num : nums) {
             System.out.println(num);

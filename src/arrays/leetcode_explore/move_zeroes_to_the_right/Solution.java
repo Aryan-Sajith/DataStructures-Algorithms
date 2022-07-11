@@ -1,6 +1,6 @@
-package arrays.leetcode_explore.move_zeroes_to_end;
+package arrays.leetcode_explore.move_zeroes_to_the_right;
 
-public class MoveZeroesEnd {
+public class Solution {
     public static void moveZeroes(int[] nums) {
         int writerIndex = 0, cap = nums.length;
 
