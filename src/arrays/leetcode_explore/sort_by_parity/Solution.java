@@ -1,6 +1,6 @@
 package arrays.leetcode_explore.sort_by_parity;
 
-public class SortByParity {
+public class Solution {
     public static int[] sortArrayByParity(int[] nums) {
         int cap = nums.length, evenPointer = 0;
 
