@@ -1,6 +1,6 @@
 package arrays.leetcode_explore.greatest_value_on_the_right;
 
-class GreatestValueOnRight {
+class Solution {
     public static int[] replaceElements(int[] arr) {
         //maxVal = Tracks the maximum value from right to left and updates over time
         int cap = arr.length, maxVal = arr[cap-1];
