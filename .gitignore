@@ -5,7 +5,6 @@ out/
 *.iml
 *.xml
 *.idea
-/Users/aryansajith/IdeaProjects/DataStructures-Algorithms/Template_README_File.md
 
 ### Eclipse ###
 .apt_generated
@@ -31,3 +30,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+!/Template_README_File.md
