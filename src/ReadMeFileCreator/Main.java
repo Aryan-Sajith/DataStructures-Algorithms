@@ -26,7 +26,7 @@ public class Main {
         // Asks for desired directory where to insert the new file
         System.out.println("Please enter where you want to create this file?");
         String directory = scanner.next();
-        createNewFile("/Users/aryansajith/IdeaProjects/DataStructures-Algorithms/src","README.md");
+        createNewFile("/Users/aryansajith/IdeaProjects/DataStructures-Algorithms/src", "arrays/leetcode_explore_arrays_101/height_checker/README.md");
 
         scanner.close();
     }

@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.zero_duplication;
+package arrays.leetcode_explore_arrays_101.zero_duplication;
 import java.util.Arrays;
 
 public class SolutionTest {

@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.remove_val;
+package arrays.leetcode_explore_arrays_101.remove_val;
 
 public class Solution {
     public static int removeElement(int[] nums, int val) {

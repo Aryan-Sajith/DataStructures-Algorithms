@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.sort_by_parity;
+package arrays.leetcode_explore_arrays_101.sort_by_parity;
 
 public class Solution {
     public static int[] sortArrayByParity(int[] nums) {

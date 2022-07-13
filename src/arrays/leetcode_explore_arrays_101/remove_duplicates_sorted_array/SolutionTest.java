@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.remove_duplicates_sorted_array;
+package arrays.leetcode_explore_arrays_101.remove_duplicates_sorted_array;
 
 
 //This test should run without any exceptions caused by the assertions if the algorithm correctly modifies the

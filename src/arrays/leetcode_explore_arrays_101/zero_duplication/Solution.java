@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.zero_duplication;
+package arrays.leetcode_explore_arrays_101.zero_duplication;
 
 /*An efficient algorithm to duplicate the zeroes present in an array in java
  1.Count the number of zeroes that need extra space in the array. O(N)

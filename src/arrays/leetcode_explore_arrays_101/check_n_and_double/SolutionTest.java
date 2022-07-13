@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.check_n_and_double;
+package arrays.leetcode_explore_arrays_101.check_n_and_double;
 
 public class SolutionTest {
     public static void main(String[] args) {

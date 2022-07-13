@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.is_mountain_array;
+package arrays.leetcode_explore_arrays_101.is_mountain_array;
 
 public class Solution {
     public static boolean validMountainArray(int[] arr) {

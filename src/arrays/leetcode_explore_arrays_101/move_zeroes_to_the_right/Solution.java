@@ -1,4 +1,4 @@
-package arrays.leetcode_explore.move_zeroes_to_the_right;
+package arrays.leetcode_explore_arrays_101.move_zeroes_to_the_right;
 
 public class Solution {
     public static void moveZeroes(int[] nums) {
