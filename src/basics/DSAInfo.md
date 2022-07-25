@@ -32,7 +32,7 @@
  ## 3. Types of Algorithms:
    - Brute Force
    - Divide and Conquer
-   - Recursion
+   - Recursion(*Self-Calling*)
    - Dynamic Programming
    - Greedy
    - Randomized
