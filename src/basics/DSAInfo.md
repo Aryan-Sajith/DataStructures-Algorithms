@@ -31,8 +31,8 @@
    - Efficiency.
  ## 3. Types of Algorithms:
    - Brute Force
-   - Divide and Conquer
-   - Recursion(*Self-Calling*)
+   - Divide and Conquer --> Usually involved Recursion
+   - Recursion
    - Dynamic Programming
    - Greedy
    - Randomized
