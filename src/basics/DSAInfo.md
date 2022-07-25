@@ -26,9 +26,14 @@
  ## 1. Definition: 
       Steps to solve a task
    - Example: Graph Algorithm to find an efficient path on Google Maps.
- ## 2. Good Algorithms:
+ ## 2. Characteristics of Good Algorithms:
    - Correctness.
    - Efficiency.
- ## 3. Importance of Algorithms: 
-      They help solve CS problems efficiently.
+ ## 3. Types of Algorithms:
+   - Brute Force
+   - Divide and Conquer
+   - Recursion
+   - Dynamic Programming
+   - Greedy
+   - Randomized
                                                                                 
