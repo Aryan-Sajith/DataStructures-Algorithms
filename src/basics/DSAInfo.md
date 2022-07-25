@@ -3,16 +3,23 @@
       Different tools to store and organize data on your computer.
    - Example: Arrays to store integers regarding upto 30 students' grades.
    ## 2. Types:
-   - Primitive:
+   - Primitive: (Pre-built into virtually all languages)
       - Integers
+      - Floats
       - Characters
-      - Boolean
-      - String
-   - Non-Primitive:
-      - Linear:
-         - Static:
-         - Dynamic:
-      - Non-Linear:
+      - Strings
+      - Booleans
+   - Non-Primitive: (Developer defined)
+      - Linear: (Data linearly sequenced in memory)
+         - Static: (DS size is unchageable)
+            - Arrays
+         - Dynamic: (DS size is changeable)
+            - Linked Lists
+            - Stacks
+            - Queues
+      - Non-Linear: (Data non-linearly sequenced in memory)
+         - Trees
+         - Graphs
       
 
 # Algorithms:
