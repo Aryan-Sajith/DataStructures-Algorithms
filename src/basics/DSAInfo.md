@@ -46,7 +46,8 @@
       3. Return outputs to obtain final answer
       4. Example: Fibonacci Series
    #### Why use It?
-   
+      1. It is prominently used in data structures like Trees/Graphs.
+      2. It is a vital component of other key algorithms like Divide and Conquer, Greedy, etc.
       
    ### Dynamic Programming
       1. Use Memoization(Memory of past results).
