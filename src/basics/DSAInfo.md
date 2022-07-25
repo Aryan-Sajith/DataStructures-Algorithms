@@ -1,5 +1,6 @@
 # Data Structures:
-   ## 1. Definition: Different tools to store and organize data on your computer.
+   ## 1. Definition: 
+      Different tools to store and organize data on your computer.
         - Example: Arrays to store integers regarding upto 30 students' grades.
 
 # Algorithms
