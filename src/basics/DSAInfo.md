@@ -30,27 +30,27 @@
    - Correctness.
    - Efficiency.
  ## 3. Types of Algorithms:
-   - Brute Force
+   ### Brute Force
       1. Tests all possible outcomes.
       2. Finds satisfactory solution.
       3. **Example: Best path between two homes**
-   - Divide and Conquer
+   ### Divide and Conquer
       1. Break the problem into smaller subproblems.
       2. Solve subproblems using recursion.
       3. Combine solutions to subproblems to get solution to original problem.
       4. **Example: Quicksort**
-   - # Recursion: A way of problem-solving that involves calling a method calling itself
-      1. Perform the same operation multiple times with differing, smaller inputs(Triggers recursive loop)
+   ### Recursion: Algorithm that involves a self-calling method
+      1. Perform the same operation multiple times with smaller and smaller inputs(Triggers recursive loop)
       2. Stop when base cases are reached(Ends recursive loop)
       3. Return outputs to obtain final answer
       4. **Example: Fibonacci Series**
-   - Dynamic Programming
+   ### Dynamic Programming
       1. Use Memoization(Memory of past results).
       2. Find best answer.
       3. **Example: Optimization**
-   - Greedy
+   ### Greedy
       1. Best Current Output--> During each phase of problem solving, we take the best current solution.
       2. By taking best local solution, we hope to arrive at the best global solution.
-   - Randomized
+   ### Randomized
       1. Use random number generation for decision-making to solve a problem
       2. **Example: Average dice rolls to get 25**
