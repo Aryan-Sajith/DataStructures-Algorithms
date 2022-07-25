@@ -9,15 +9,15 @@
       - Characters
       - Strings
       - Booleans
-   - Non-Primitive: (Developer defined)
-      - Linear: (Data linearly sequenced in memory)
-         - Static: (DS size is unchageable)
+   - Non-Primitive: *(Developer defined)*
+      - Linear: *(Data linearly sequenced in memory)*
+         - Static: *(DS size is unchageable)*
             - Arrays
-         - Dynamic: (DS size is changeable)
+         - Dynamic: *(DS size is changeable)*
             - Linked Lists
             - Stacks
             - Queues
-      - Non-Linear: (Data non-linearly sequenced in memory)
+      - Non-Linear: *(Data non-linearly sequenced in memory)*
          - Trees
          - Graphs
       
