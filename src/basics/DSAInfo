@@ -1,9 +1,10 @@
-Data Structures - Different tools to organize and store data on your computer.
-    Example: Arrays to store integers.
+Data Structures - Different tools to store and organize data on your computer.
+    Example: Arrays to store integers regarding upto 100 students' age.
 
-Algorithms - Steps to solve a task
-    Example: Graph Algorithm to find efficient path on Google Maps.
-
-Good Algorithms:
-    1)Correctness.
-    2)Efficiency.
+Algorithms
+   1) Definition: Steps to solve a task
+        Example: Graph Algorithm to find efficient path on Google Maps.
+   2) Good Algorithms:
+        a) Correctness.
+        b) Efficiency.
+   3) Importance of Algorithms: They help solve CS problems effeciently.
