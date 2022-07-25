@@ -6,9 +6,9 @@
 # Algorithms:
  ## 1. Definition: 
       Steps to solve a task
-         - Example: Graph Algorithm to find an efficient path on Google Maps.
+   - Example: Graph Algorithm to find an efficient path on Google Maps.
  ## 2. Good Algorithms:
-         - Correctness.
-        * Efficiency.
-    3. Importance of Algorithms: They help solve CS problems efficiently.
+   - Correctness.
+   - Efficiency.
+ ## 3. Importance of Algorithms: They help solve CS problems efficiently.
                                                                                 
