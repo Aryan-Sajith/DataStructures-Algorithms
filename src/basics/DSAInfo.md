@@ -43,7 +43,7 @@
       1. Method calling within method definition.
       2. Stop when base cases are reached.
       3. Return outputs to obtain final answer
-      4. **Example: Fibonacci Sequence**
+      4. **Example: Fibonacci Series**
    - Dynamic Programming
       1. Use Memoization(Memory of past results).
       2. Find best answer.
