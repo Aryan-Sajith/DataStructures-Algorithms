@@ -1,7 +1,7 @@
 # Data Structures:
    ## 1. Definition: 
       Different tools to store and organize data on your computer.
-   - Example: Arrays to store integers regarding upto 30 students' grades.
+   - Example: Arrays to store integers for upto 30 students' grades in a Calculus class.
    ## 2. Types:
    - Primitive: *(Pre-built into virtually all languages)*
       - Integers
