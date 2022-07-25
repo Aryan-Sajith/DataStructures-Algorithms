@@ -40,10 +40,11 @@
       3. Combine solutions to subproblems to get solution to original problem.
       4. **Example: Quicksort**
    ### Recursion: Algorithm that involves a self-calling method
-      1. Perform the same operation multiple times with smaller and smaller inputs(Triggers recursive loop)
-      2. Stop when base cases are reached(Ends recursive loop)
-      3. Return outputs to obtain final answer
-      4. **Example: Fibonacci Series**
+      #### Process:
+         1. Perform the same operation multiple times with smaller and smaller inputs(Triggers recursive loop)
+         2. Stop when base cases are reached(Ends recursive loop)
+         3. Return outputs to obtain final answer
+         4. **Example: Fibonacci Series**
    ### Dynamic Programming
       1. Use Memoization(Memory of past results).
       2. Find best answer.
