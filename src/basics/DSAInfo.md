@@ -10,5 +10,6 @@
  ## 2. Good Algorithms:
    - Correctness.
    - Efficiency.
- ## 3. Importance of Algorithms: They help solve CS problems efficiently.
+ ## 3. Importance of Algorithms: 
+      They help solve CS problems efficiently.
                                                                                 
