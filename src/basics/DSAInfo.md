@@ -1,7 +1,7 @@
 # Data Structures:
    ## 1. Definition: 
       Different tools to store and organize data on your computer.
-   - Example: Arrays to store integers for upto 30 students' grades in a Calculus class.
+   - **Example:** Arrays to store integers for upto 30 students' grades in a Calculus class.
    ## 2. Types:
    - Primitive: *(Pre-built into virtually all languages)*
       - Integers
@@ -25,15 +25,22 @@
 # Algorithms:
  ## 1. Definition: 
       Steps to solve a task
-   - Example: Graph Algorithm to find an efficient path on Google Maps.
+   - **Example:** Graph Algorithm to find an efficient path on Google Maps.
  ## 2. Characteristics of Good Algorithms:
    - Correctness.
    - Efficiency.
  ## 3. Types of Algorithms:
    - Brute Force
-   - Divide and Conquer --> Usually involved Recursion
+   - Divide and Conquer
+      1. Break the problem into smaller subproblems.
+      2. Solve subproblems using recursion.
+      3. Combine solutions to subproblems to get solution to original problem.
+      4. **Example: Quicksort**
    - Recursion
+      1. Method calling within method definition.
+      2. Stop when base cases are reached.
+      3. Return outputs to obtain final answer
+      4. **Example: Fibonacci Sequence**
    - Dynamic Programming
    - Greedy
    - Randomized
-                                                                                
