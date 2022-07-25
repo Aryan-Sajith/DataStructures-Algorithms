@@ -31,6 +31,9 @@
    - Efficiency.
  ## 3. Types of Algorithms:
    - Brute Force
+      1. Tests all possible outcomes.
+      2. Finds satisfactory solution.
+      3. **Example: Best path between two homes**
    - Divide and Conquer
       1. Break the problem into smaller subproblems.
       2. Solve subproblems using recursion.
@@ -47,5 +50,7 @@
       3. **Example: Optimization**
    - Greedy
       1. Best Current Output--> During each phase of problem solving, we take the best current solution.
-      2. By taking best local solution, we hope to arrive at the best global solution
+      2. By taking best local solution, we hope to arrive at the best global solution.
    - Randomized
+      1. Use random number generation for decision-making to solve a problem
+      2. **Example: Average dice rolls to get 25**
