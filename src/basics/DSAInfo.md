@@ -42,5 +42,10 @@
       3. Return outputs to obtain final answer
       4. **Example: Fibonacci Sequence**
    - Dynamic Programming
+      1. Use Memoization(Memory of past results).
+      2. Find best answer.
+      3. **Example: Optimization**
    - Greedy
+      1. Best Current Output--> During each phase of problem solving, we take the best current solution.
+      2. By taking best local solution, we hope to arrive at the best global solution
    - Randomized
